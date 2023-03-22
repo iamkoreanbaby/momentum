@@ -1,0 +1,5 @@
+num=int(input("enter the repeat number : "))       #아래 문장을 반복할 만큼 정수를 입력
+
+for i in range(num):
+  print("you are so good student")
+
