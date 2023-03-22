@@ -1,0 +1,7 @@
+cnt = 1
+chr=  input("enter the string : ")
+
+for i in chr :
+   print(cnt, '번쨰 알파벳:', chr[cnt-1])  #print(cnt, '번쨰 알파벳:',)
+
+   cnt=cnt+1
